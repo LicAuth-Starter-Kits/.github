@@ -1,4 +1,4 @@
-# Hi there
+# Hi there 👋
 
 Here you'll find starter kits for a bunch of different technology stacks to work with LicAuth ecosystem.
 
